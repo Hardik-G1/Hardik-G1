@@ -1,7 +1,25 @@
 ## Hi there 👋
 
+🚀 Master's student in Computer Science @ University of Edinburgh  
+💻 Software Engineer | C#, Python , Go, Typescript <br/>
+⚡ Interested in software development and distributed systems. <br/>
+🔭 I’m currently working on a Map application that gamifies exploration
+
+### 💼 Experience  
+- 2+ years at Barclays: .NET applications, Built CI/CD pipelines, Windows services, and REST APIs  
+- Strong background in OS, networking, and web services  
+
+### 🔧 Tech Stack  
+- **Languages:** Python, Go, C#, JavaScript  
+- **Tools:** Docker, Linux, MongoDB, Git  
+
+
+
 <!--
 **Hardik-G1/Hardik-G1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### 📫 Let's connect!  
+- [LinkedIn](https://www.linkedin.com/in/hardikgup)  
 
 Here are some ideas to get you started:
 
