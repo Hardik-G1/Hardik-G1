@@ -6,7 +6,7 @@
 🔭 I’m currently working on a Map application that gamifies exploration
 
 ### 💼 Experience  
-- 2+ years at Barclays: .NET applications, Built CI/CD pipelines, Windows services, and REST APIs  
+- 2+ years at Barclays: REST APIs, Built CI/CD pipelines, Windows services, and Windows applications.  
 - Strong background in OS, networking, and web services  
 
 ### 🔧 Tech Stack  
