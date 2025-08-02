@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🚀 Master's student in Computer Science @ University of Edinburgh  
-💻 Software Engineer | C#, Python , Go, Typescript <br/>
+💻 Software Engineer | Java, C#, Python , Go, Typescript <br/>
 ⚡ Interested in software development and distributed systems. <br/>
 🔭 I’m currently working on a Map application that gamifies exploration
 
@@ -10,8 +10,8 @@
 - Strong background in OS, networking, and web services  
 
 ### 🔧 Tech Stack  
-- **Languages:** Python, Go, C#, JavaScript  
-- **Tools:** Docker, Linux, MongoDB, Git  
+- **Languages:** Java, Python, Go, C#, JavaScript  
+- **Tools:** Docker, Linux, SQL, MongoDB, Git  
 
 
 
