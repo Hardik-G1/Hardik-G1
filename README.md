@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🚀 Master's student in Computer Science @ University of Edinburgh  
+🚀 Master's in Computer Science @ University of Edinburgh  
 💻 Software Engineer | Java, C#, Python , Go, Typescript <br/>
 ⚡ Interested in software development and distributed systems. <br/>
 🔭 I’m currently working on a Map application that gamifies exploration
