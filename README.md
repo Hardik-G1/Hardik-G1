@@ -6,11 +6,12 @@
 🔭 I’m currently working on a Map application that gamifies exploration
 
 ### 💼 Experience  
-- 2+ years at Barclays: REST APIs, Built CI/CD pipelines, Windows services, and Windows applications.  
+- 2+ years at Barclays: Frontend, REST APIs, Built CI/CD pipelines, Windows services, and Windows applications.  
 - Strong background in OS, networking, and web services  
 
 ### 🔧 Tech Stack  
-- **Languages:** Java, Python, Go, C#, JavaScript  
+- **Languages:** Java, Python, Go, C#, JavaScript
+- **Frameworks** React, SpringBoot, .NetFramework, Django, gRPC
 - **Tools:** Docker, Linux, SQL, MongoDB, Git  
 
 
