@@ -1,17 +1,16 @@
 ## Hi there 👋
 
 🚀 Master's in Computer Science @ University of Edinburgh  
-💻 Software Engineer | Java, C#, Python , Go, Typescript <br/>
+💻 Software Engineer <br/>
 ⚡ Interested in software development and distributed systems. <br/>
 🔭 I’m currently working on a Map application that gamifies exploration
 
 ### 💼 Experience  
-- 2+ years at Barclays: Frontend, REST APIs, Built CI/CD pipelines, Windows services, and Windows applications.  
+- 2+ years at Barclays: REST APIs, Built CI/CD pipelines, Workers, and .NET applications.  
 - Strong background in OS, networking, and web services  
 
 ### 🔧 Tech Stack  
-- **Languages:** Java, Python, Go, C#, JavaScript
-- **Frameworks** React, SpringBoot, .NetFramework, Django, gRPC
+- **Languages:** Python, Go, C#, JavaScript
 - **Tools:** Docker, Linux, SQL, MongoDB, Git  
 
 
